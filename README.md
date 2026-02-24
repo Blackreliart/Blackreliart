@@ -1,16 +1,25 @@
-## Hi there 👋
+# Moin, ich bin Blackreliart! 🧱🎮
 
-<!--
-**Blackreliart/Blackreliart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Was ich hier so mache
+Ich nutze GitHub hauptsächlich als zuverlässigen Speicher für meine **Minecraft-Maps**, Projekte und anderen "Random Stuff", den ich online teilen möchte.
 
-Here are some ideas to get you started:
+- 🗺️ **Minecraft Maps:** Hier findest du stabile Download-Links, die niemals ablaufen.
+- 📂 **Random Projects:** Alles, was mir gerade in den Sinn kommt (von Scripten bis Assets).
+- ⚡ **Fun Fact:** Ich nutze GitHub als kostenlosen, ewigen Hoster, weil Cloud-Speicher-Links nerven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Tools & Games
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gamemaker,discord,vscode,git,github,linux,ubuntu" />
+  </a>
+</p>
+
+### 📈 Meine GitHub-Aktivität
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blackreliart&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+---
+
+> [!TIP]
+> Schau in die **Releases** meiner Repositories, um die neuesten Versionen meiner Maps herunterzuladen!
