@@ -1,25 +1,16 @@
-# Moin, ich bin Blackreliart! 🧱🎮
+# Hey there! I am using GitHub 🧱
 
-### 🌍 Was ich hier so mache
-Ich nutze GitHub hauptsächlich als zuverlässigen Speicher für meine **Minecraft-Maps**, Projekte und anderen "Random Stuff", den ich online teilen möchte.
+### 📂 Why?
+  Why not?
 
-- 🗺️ **Minecraft Maps:** Hier findest du stabile Download-Links, die niemals ablaufen.
-- 📂 **Random Projects:** Alles, was mir gerade in den Sinn kommt (von Scripten bis Assets).
-- ⚡ **Fun Fact:** Ich nutze GitHub als kostenlosen, ewigen Hoster, weil Cloud-Speicher-Links nerven.
+- 🗺️ **Minecraft Maps:** 
+- 📦 **Random Junk:** Scripts, assets, projekcts, and stuff I'll probably forget about.
+- 📉 **Activity:** Highly unpredictable. 
 
-### 🎮 Tools & Games
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gamemaker,discord,vscode,git,github,linux,ubuntu" />
-  </a>
-</p>
+> [!CAUTION]
+> Expect nothing, yet you might find gold (or just a broken world file).
 
-### 📈 Meine GitHub-Aktivität
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blackreliart&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
+### 🛠️ "Tools" I pretend to use
+ - everything that's free to use 💵
 ---
-
-> [!TIP]
-> Schau in die **Releases** meiner Repositories, um die neuesten Versionen meiner Maps herunterzuladen!
+*If it's stupid and it works, it's not stupid (probably).*
