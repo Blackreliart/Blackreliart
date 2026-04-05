@@ -10,4 +10,3 @@
 ### 🛠️ "Tools" I pretend to use
  - everything that's free to use 💵
 ---
-*If it's stupid and it works, it's not stupid (probably).*
